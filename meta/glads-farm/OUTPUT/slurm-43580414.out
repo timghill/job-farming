@@ -1,0 +1,769 @@
+Case 2:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.14887
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/glads-farm/RUN/output_002.nc
+Fields, IC & BC initialised
+Initial phi calculated in 1.1s
+0.0/3650.0 days/days; walltime: 2.4
+36.5/3650.0 days/days; walltime: 2.8
+73.0/3650.0 days/days; walltime: 6.8
+109.5/3650.0 days/days; walltime: 8.5
+146.0/3650.0 days/days; walltime: 9.3
+182.5/3650.0 days/days; walltime: 7.4
+219.0/3650.0 days/days; walltime: 10.0
+255.5/3650.0 days/days; walltime: 5.4
+292.0/3650.0 days/days; walltime: 3.1
+328.5/3650.0 days/days; walltime: 3.3
+365.0/3650.0 days/days; walltime: 1.6
+401.5/3650.0 days/days; walltime: 1.7
+438.0/3650.0 days/days; walltime: 0.8
+474.5/3650.0 days/days; walltime: 0.8
+511.0/3650.0 days/days; walltime: 0.8
+547.5/3650.0 days/days; walltime: 0.9
+584.0/3650.0 days/days; walltime: 0.4
+620.5/3650.0 days/days; walltime: 0.5
+657.0/3650.0 days/days; walltime: 0.4
+693.5/3650.0 days/days; walltime: 0.5
+-730.0/3650.0 days/days; walltime: 0.4
+766.5/3650.0 days/days; walltime: 0.3
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 0.3
+-876.0/3650.0 days/days; walltime: 0.3
+912.5/3650.0 days/days; walltime: 0.3
+949.0/3650.0 days/days; walltime: 0.3
+985.5/3650.0 days/days; walltime: 0.2
+1022.0/3650.0 days/days; walltime: 0.2
+1058.5/3650.0 days/days; walltime: 0.2
+1095.0/3650.0 days/days; walltime: 0.2
+1131.5/3650.0 days/days; walltime: 0.5
+1168.0/3650.0 days/days; walltime: 0.1
+1204.5/3650.0 days/days; walltime: 0.1
+1241.0/3650.0 days/days; walltime: 0.1
+1277.5/3650.0 days/days; walltime: 0.1
+1314.0/3650.0 days/days; walltime: 0.1
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.1
+1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.1
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.0
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.0
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.0
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.0
+2409.0/3650.0 days/days; walltime: 0.1
+2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.1
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.1
+2591.5/3650.0 days/days; walltime: 0.1
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.1
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.1
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.1
+2847.0/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+2920.0/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3029.5/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.4
+3321.5/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.0
+3577.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 76.4s
+ 
+Case 3:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.17596
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/glads-farm/RUN/output_003.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.9
+73.0/3650.0 days/days; walltime: 3.1
+109.5/3650.0 days/days; walltime: 3.1
+146.0/3650.0 days/days; walltime: 13.4
+182.5/3650.0 days/days; walltime: 7.6
+219.0/3650.0 days/days; walltime: 6.8
+255.5/3650.0 days/days; walltime: 5.9
+292.0/3650.0 days/days; walltime: 4.5
+328.5/3650.0 days/days; walltime: 3.4
+365.0/3650.0 days/days; walltime: 2.0
+401.5/3650.0 days/days; walltime: 1.7
+438.0/3650.0 days/days; walltime: 1.3
+474.5/3650.0 days/days; walltime: 1.0
+511.0/3650.0 days/days; walltime: 0.9
+547.5/3650.0 days/days; walltime: 1.1
+584.0/3650.0 days/days; walltime: 0.5
+620.5/3650.0 days/days; walltime: 0.5
+657.0/3650.0 days/days; walltime: 0.4
+693.5/3650.0 days/days; walltime: 0.5
+730.0/3650.0 days/days; walltime: 0.5
+766.5/3650.0 days/days; walltime: 0.4
+803.0/3650.0 days/days; walltime: 0.4
+839.5/3650.0 days/days; walltime: 0.3
+876.0/3650.0 days/days; walltime: 0.2
+912.5/3650.0 days/days; walltime: 0.1
+949.0/3650.0 days/days; walltime: 0.1
+985.5/3650.0 days/days; walltime: 0.1
+1022.0/3650.0 days/days; walltime: 0.1
+1058.5/3650.0 days/days; walltime: 0.4
+1095.0/3650.0 days/days; walltime: 0.0
+1131.5/3650.0 days/days; walltime: 0.1
+1168.0/3650.0 days/days; walltime: 0.1
+1204.5/3650.0 days/days; walltime: 0.1
+1241.0/3650.0 days/days; walltime: 0.2
+1277.5/3650.0 days/days; walltime: 0.2
+1314.0/3650.0 days/days; walltime: 0.2
+1350.5/3650.0 days/days; walltime: 0.3
+1387.0/3650.0 days/days; walltime: 0.2
+1423.5/3650.0 days/days; walltime: 0.7
+1460.0/3650.0 days/days; walltime: 0.2
+1496.5/3650.0 days/days; walltime: 0.3
+1533.0/3650.0 days/days; walltime: 0.2
+1569.5/3650.0 days/days; walltime: 0.2
+1606.0/3650.0 days/days; walltime: 0.2
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.0
+1861.5/3650.0 days/days; walltime: 0.0
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.0
+1971.0/3650.0 days/days; walltime: 0.0
+2007.5/3650.0 days/days; walltime: 0.0
+2044.0/3650.0 days/days; walltime: 0.0
+2080.5/3650.0 days/days; walltime: 0.0
+2117.0/3650.0 days/days; walltime: 0.0
+2153.5/3650.0 days/days; walltime: 0.4
+2190.0/3650.0 days/days; walltime: 0.0
+2226.5/3650.0 days/days; walltime: 0.0
+2299.5/3650.0 days/days; walltime: 0.0
+2336.0/3650.0 days/days; walltime: 0.0
+2372.5/3650.0 days/days; walltime: 0.0
+2409.0/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.0
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.0
+2664.5/3650.0 days/days; walltime: 0.0
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.0
+2920.0/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+3029.5/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 74.7s
+ 
+Case 4:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.20180
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/glads-farm/RUN/output_004.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.8s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.5
+73.0/3650.0 days/days; walltime: 4.1
+109.5/3650.0 days/days; walltime: 5.4
+146.0/3650.0 days/days; walltime: 10.5
+182.5/3650.0 days/days; walltime: 4.1
+219.0/3650.0 days/days; walltime: 5.2
+255.5/3650.0 days/days; walltime: 7.8
+292.0/3650.0 days/days; walltime: 11.9
+328.5/3650.0 days/days; walltime: 5.8
+365.0/3650.0 days/days; walltime: 2.8
+401.5/3650.0 days/days; walltime: 2.0
+438.0/3650.0 days/days; walltime: 1.4
+474.5/3650.0 days/days; walltime: 1.3
+511.0/3650.0 days/days; walltime: 0.7
+547.5/3650.0 days/days; walltime: 0.8
+584.0/3650.0 days/days; walltime: 0.6
+620.5/3650.0 days/days; walltime: 0.5
+657.0/3650.0 days/days; walltime: 0.5
+693.5/3650.0 days/days; walltime: 0.6
+730.0/3650.0 days/days; walltime: 0.2
+766.5/3650.0 days/days; walltime: 0.3
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 0.3
+876.0/3650.0 days/days; walltime: 0.4
+912.5/3650.0 days/days; walltime: 0.4
+949.0/3650.0 days/days; walltime: 0.3
+985.5/3650.0 days/days; walltime: 0.3
+1022.0/3650.0 days/days; walltime: 0.3
+1058.5/3650.0 days/days; walltime: 0.3
+1095.0/3650.0 days/days; walltime: 0.3
+1131.5/3650.0 days/days; walltime: 0.3
+1168.0/3650.0 days/days; walltime: 0.2
+-1204.5/3650.0 days/days; walltime: 0.2
+1241.0/3650.0 days/days; walltime: 0.2
+1277.5/3650.0 days/days; walltime: 0.2
+1314.0/3650.0 days/days; walltime: 0.1
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.4
+1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.1
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+--1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.0
+1971.0/3650.0 days/days; walltime: 0.1
+2007.5/3650.0 days/days; walltime: 0.0
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.0
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.0
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.4
+2409.0/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.1
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.1
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.0
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.1
+2920.0/3650.0 days/days; walltime: 0.1
+2956.5/3650.0 days/days; walltime: 0.1
+2993.0/3650.0 days/days; walltime: 0.1
+3029.5/3650.0 days/days; walltime: 0.1
+3066.0/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.1
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3212.0/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+3321.5/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.1
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 83.9s
+ 
+Case 6:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.22844
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/glads-farm/RUN/output_006.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.5s
+0.0/3650.0 days/days; walltime: 2.2
+-36.5/3650.0 days/days; walltime: 7.1
+73.0/3650.0 days/days; walltime: 2.3
+109.5/3650.0 days/days; walltime: 2.5
+146.0/3650.0 days/days; walltime: 7.9
+182.5/3650.0 days/days; walltime: 8.1
+219.0/3650.0 days/days; walltime: 6.7
+255.5/3650.0 days/days; walltime: 8.4
+292.0/3650.0 days/days; walltime: 6.9
+328.5/3650.0 days/days; walltime: 4.4
+365.0/3650.0 days/days; walltime: 2.3
+401.5/3650.0 days/days; walltime: 1.6
+438.0/3650.0 days/days; walltime: 1.5
+474.5/3650.0 days/days; walltime: 1.2
+511.0/3650.0 days/days; walltime: 1.0
+547.5/3650.0 days/days; walltime: 0.9
+584.0/3650.0 days/days; walltime: 0.7
+620.5/3650.0 days/days; walltime: 0.7
+657.0/3650.0 days/days; walltime: 0.6
+693.5/3650.0 days/days; walltime: 0.5
+730.0/3650.0 days/days; walltime: 0.5
+-766.5/3650.0 days/days; walltime: 0.8
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 0.3
+876.0/3650.0 days/days; walltime: 0.4
+912.5/3650.0 days/days; walltime: 0.4
+949.0/3650.0 days/days; walltime: 0.5
+985.5/3650.0 days/days; walltime: 0.3
+1022.0/3650.0 days/days; walltime: 0.3
+1058.5/3650.0 days/days; walltime: 0.2
+1095.0/3650.0 days/days; walltime: 0.2
+----1131.5/3650.0 days/days; walltime: 0.2
+----1168.0/3650.0 days/days; walltime: 0.1
+-------1204.5/3650.0 days/days; walltime: 0.2
+-------1241.0/3650.0 days/days; walltime: 0.2
+-------1277.5/3650.0 days/days; walltime: 0.2
+----------1314.0/3650.0 days/days; walltime: 0.2
+-----------------------1350.5/3650.0 days/days; walltime: 0.3
+------------------1387.0/3650.0 days/days; walltime: 0.2
+-------------1423.5/3650.0 days/days; walltime: 0.2
+--------1460.0/3650.0 days/days; walltime: 0.2
+-------1496.5/3650.0 days/days; walltime: 0.2
+-------1533.0/3650.0 days/days; walltime: 0.2
+------1569.5/3650.0 days/days; walltime: 0.1
+------1606.0/3650.0 days/days; walltime: 0.2
+----1642.5/3650.0 days/days; walltime: 0.1
+----1679.0/3650.0 days/days; walltime: 0.1
+---1715.5/3650.0 days/days; walltime: 0.1
+--1752.0/3650.0 days/days; walltime: 0.4
+----1788.5/3650.0 days/days; walltime: 0.1
+--1825.0/3650.0 days/days; walltime: 0.0
+---1861.5/3650.0 days/days; walltime: 0.0
+--1898.0/3650.0 days/days; walltime: 0.0
+---1934.5/3650.0 days/days; walltime: 0.1
+--1971.0/3650.0 days/days; walltime: 0.0
+------2007.5/3650.0 days/days; walltime: 0.1
+----2044.0/3650.0 days/days; walltime: 0.0
+----2080.5/3650.0 days/days; walltime: 0.0
+------2117.0/3650.0 days/days; walltime: 0.1
+-2153.5/3650.0 days/days; walltime: 0.0
+----2190.0/3650.0 days/days; walltime: 0.4
+------2226.5/3650.0 days/days; walltime: 0.1
+----2263.0/3650.0 days/days; walltime: 0.0
+----2299.5/3650.0 days/days; walltime: 0.0
+--2336.0/3650.0 days/days; walltime: 0.0
+--2372.5/3650.0 days/days; walltime: 0.0
+----2409.0/3650.0 days/days; walltime: 0.1
+----2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.1
+--2518.5/3650.0 days/days; walltime: 0.0
+-2555.0/3650.0 days/days; walltime: 0.0
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.0
+2701.0/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3212.0/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 77.8s
+ 
+Case 8:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.25850
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/glads-farm/RUN/output_008.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.5s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.3
+73.0/3650.0 days/days; walltime: 4.1
+109.5/3650.0 days/days; walltime: 4.5
+146.0/3650.0 days/days; walltime: 5.3
+182.5/3650.0 days/days; walltime: 5.2
+219.0/3650.0 days/days; walltime: 2.0
+255.5/3650.0 days/days; walltime: 1.9
+292.0/3650.0 days/days; walltime: 1.3
+328.5/3650.0 days/days; walltime: 1.9
+365.0/3650.0 days/days; walltime: 1.2
+401.5/3650.0 days/days; walltime: 2.1
+438.0/3650.0 days/days; walltime: 3.0
+474.5/3650.0 days/days; walltime: 4.5
+511.0/3650.0 days/days; walltime: 9.4
+547.5/3650.0 days/days; walltime: 6.6
+584.0/3650.0 days/days; walltime: 6.5
+620.5/3650.0 days/days; walltime: 6.3
+657.0/3650.0 days/days; walltime: 3.9
+693.5/3650.0 days/days; walltime: 2.8
+730.0/3650.0 days/days; walltime: 2.4
+766.5/3650.0 days/days; walltime: 2.7
+803.0/3650.0 days/days; walltime: 2.7
+839.5/3650.0 days/days; walltime: 2.5
+876.0/3650.0 days/days; walltime: 0.8
+912.5/3650.0 days/days; walltime: 0.6
+949.0/3650.0 days/days; walltime: 0.6
+985.5/3650.0 days/days; walltime: 0.5
+1022.0/3650.0 days/days; walltime: 0.4
+1058.5/3650.0 days/days; walltime: 0.3
+1095.0/3650.0 days/days; walltime: 0.3
+1131.5/3650.0 days/days; walltime: 0.2
+1168.0/3650.0 days/days; walltime: 0.2
+1204.5/3650.0 days/days; walltime: 0.2
+1241.0/3650.0 days/days; walltime: 0.1
+1277.5/3650.0 days/days; walltime: 0.1
+1314.0/3650.0 days/days; walltime: 0.2
+1350.5/3650.0 days/days; walltime: 0.5
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.1
+1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.1
+-1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.0
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.0
+2080.5/3650.0 days/days; walltime: 0.1
+-2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.1
+2409.0/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.1
+2482.0/3650.0 days/days; walltime: 0.1
+-2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.0
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.1
+2701.0/3650.0 days/days; walltime: 0.0
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.1
+2810.5/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.1
+2883.5/3650.0 days/days; walltime: 0.0
+2920.0/3650.0 days/days; walltime: 0.1
+-2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3029.5/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.1
+3212.0/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.4
+3321.5/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3431.0/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3577.0/3650.0 days/days; walltime: 0.0
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 100.7s
+ 
+Case 13:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.28500
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 15:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.30218
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 17:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.32418
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 19:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.1754
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 21:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.3545
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 23:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.5269
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 25:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.6966
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 27:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.8811
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 29:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.10595
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 31:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.12665
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+[Warning: Unable to load Toolbox Path Cache /home/tghill/.matlab/R2020b/toolbox_cache-9.9.0-2635161958-glnxa64.xml. The cache file is not in the correct format. It will be
+regenerated upon quitting MATLAB.] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+Case 34:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.14743
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+{Index in position 1 exceeds array bounds (must not exceed 9).
+
+Error in run_job (line 13)
+gamma = para(jobid, 1);
+} 
+No cases left; exiting.
