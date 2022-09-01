@@ -6,10 +6,10 @@ from mpl_toolkits.axes_grid1.axes_divider import make_axes_locatable
 
 import cmocean
 
-fig, axs = plt.subplots(nrows=3, ncols=3)
+fig, axs = plt.subplots(nrows=5, ncols=7)
 axs = axs.flatten()
 
-ensemble_press = np.zeros((866, 9))
+ensemble_press = np.zeros((866, 35))
 
 paras = np.loadtxt('../glads_para_gamma_kc.txt')
 
@@ -44,7 +44,7 @@ for i in range(9):
 
 
 mean_press = np.mean(ensemble_press, axis=1)
-for i in range(9):
+for i in range(35):
     ax = axs[i]
     trip = ax.tripcolor(mtri, ensemble_press[:, i] - mean_press, vmin=-0.2, vmax=0.2, cmap=cmocean.cm.balance)
     ax.set_xlim([0, 100])

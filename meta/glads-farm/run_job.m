@@ -9,7 +9,7 @@ fout = sprintf('output_%03d.nc', jobid);
 
 % Read parameter file
 paraid = fopen('glads_para_gamma_kc.txt', 'r');
-para = fscanf(paraid,'%f %f', [2 9])';
+para = fscanf(paraid,'%f %f', [2 7])';
 gamma = para(jobid, 1);
 kc = para(jobid, 2);
 
