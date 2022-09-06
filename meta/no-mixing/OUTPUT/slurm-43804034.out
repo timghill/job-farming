@@ -1,0 +1,1230 @@
+slurmstepd: error: Unable to create TMPDIR [/localscratch/tghill.43802922.0]: Permission denied
+slurmstepd: error: Setting TMPDIR to /tmp
+Case 1:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.22121
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_001.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.7s
+0.0/3650.0 days/days; walltime: 2.4
+36.5/3650.0 days/days; walltime: 93.6
+73.0/3650.0 days/days; walltime: 38.7
+109.5/3650.0 days/days; walltime: 11.5
+146.0/3650.0 days/days; walltime: 7.5
+182.5/3650.0 days/days; walltime: 5.1
+219.0/3650.0 days/days; walltime: 2.3
+255.5/3650.0 days/days; walltime: 1.3
+292.0/3650.0 days/days; walltime: 1.6
+328.5/3650.0 days/days; walltime: 7.8
+365.0/3650.0 days/days; walltime: 0.5
+401.5/3650.0 days/days; walltime: 0.3
+438.0/3650.0 days/days; walltime: 0.4
+474.5/3650.0 days/days; walltime: 0.6
+511.0/3650.0 days/days; walltime: 0.1
+547.5/3650.0 days/days; walltime: 0.1
+584.0/3650.0 days/days; walltime: 0.3
+620.5/3650.0 days/days; walltime: 0.4
+657.0/3650.0 days/days; walltime: 0.3
+693.5/3650.0 days/days; walltime: 0.3
+730.0/3650.0 days/days; walltime: 0.2
+766.5/3650.0 days/days; walltime: 0.1
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 0.2
+876.0/3650.0 days/days; walltime: 0.2
+912.5/3650.0 days/days; walltime: 0.1
+949.0/3650.0 days/days; walltime: 0.1
+985.5/3650.0 days/days; walltime: 0.1
+1022.0/3650.0 days/days; walltime: 0.1
+1058.5/3650.0 days/days; walltime: 0.1
+1095.0/3650.0 days/days; walltime: 0.1
+1131.5/3650.0 days/days; walltime: 0.2
+1168.0/3650.0 days/days; walltime: 0.1
+1204.5/3650.0 days/days; walltime: 0.2
+1241.0/3650.0 days/days; walltime: 0.2
+1277.5/3650.0 days/days; walltime: 0.2
+1314.0/3650.0 days/days; walltime: 0.2
+1350.5/3650.0 days/days; walltime: 0.2
+1387.0/3650.0 days/days; walltime: 0.5
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.2
+1496.5/3650.0 days/days; walltime: 0.2
+1533.0/3650.0 days/days; walltime: 0.2
+1569.5/3650.0 days/days; walltime: 0.2
+1606.0/3650.0 days/days; walltime: 0.2
+1642.5/3650.0 days/days; walltime: 0.6
+1679.0/3650.0 days/days; walltime: 0.2
+1715.5/3650.0 days/days; walltime: 0.3
+1752.0/3650.0 days/days; walltime: 0.3
+1788.5/3650.0 days/days; walltime: 0.4
+1825.0/3650.0 days/days; walltime: 0.8
+1861.5/3650.0 days/days; walltime: 0.8
+1898.0/3650.0 days/days; walltime: 0.7
+1934.5/3650.0 days/days; walltime: 0.9
+1971.0/3650.0 days/days; walltime: 0.2
+2007.5/3650.0 days/days; walltime: 0.2
+2044.0/3650.0 days/days; walltime: 0.6
+2080.5/3650.0 days/days; walltime: 0.5
+2117.0/3650.0 days/days; walltime: 1.4
+2153.5/3650.0 days/days; walltime: 1.5
+2190.0/3650.0 days/days; walltime: 1.1
+2226.5/3650.0 days/days; walltime: 1.5
+2263.0/3650.0 days/days; walltime: 0.8
+2299.5/3650.0 days/days; walltime: 0.6
+2336.0/3650.0 days/days; walltime: 0.5
+2372.5/3650.0 days/days; walltime: 1.2
+2409.0/3650.0 days/days; walltime: 1.1
+2445.5/3650.0 days/days; walltime: 1.7
+2482.0/3650.0 days/days; walltime: 1.6
+2518.5/3650.0 days/days; walltime: 1.4
+2555.0/3650.0 days/days; walltime: 1.8
+2591.5/3650.0 days/days; walltime: 3.9
+2628.0/3650.0 days/days; walltime: 1.3
+2664.5/3650.0 days/days; walltime: 1.4
+2701.0/3650.0 days/days; walltime: 4.7
+2737.5/3650.0 days/days; walltime: 1.4
+2774.0/3650.0 days/days; walltime: 3.9
+2810.5/3650.0 days/days; walltime: 1.2
+2847.0/3650.0 days/days; walltime: 2.4
+[Warning: Failure at t=1.066848e+00.  Unable to meet integration tolerances without reducing the step size below the smallest value allowed (3.552714e-15) at time t.] 
+[> In ode15s (line 717)
+In runner_coupled_ode15s (line 229)
+In run_model (line 58)
+In run_job (line 23)] 
+[Warning: somethings a bit iffy with scaling of para.time.fEuler ...] 
+[> In scale_time_para (line 25)
+In runner_coupled_ode15s (line 255)
+In run_model (line 58)
+In run_job (line 23)] 
+Wallclock for model run: 228.8s
+ 
+Case 2:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.24657
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_002.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.5s
+0.0/3650.0 days/days; walltime: 2.1
+36.5/3650.0 days/days; walltime: 5.1
+73.0/3650.0 days/days; walltime: 3.9
+109.5/3650.0 days/days; walltime: 2.6
+146.0/3650.0 days/days; walltime: 6.2
+182.5/3650.0 days/days; walltime: 9.2
+219.0/3650.0 days/days; walltime: 6.8
+255.5/3650.0 days/days; walltime: 7.2
+292.0/3650.0 days/days; walltime: 5.6
+328.5/3650.0 days/days; walltime: 3.8
+365.0/3650.0 days/days; walltime: 1.8
+401.5/3650.0 days/days; walltime: 1.7
+438.0/3650.0 days/days; walltime: 1.3
+474.5/3650.0 days/days; walltime: 1.1
+511.0/3650.0 days/days; walltime: 0.6
+547.5/3650.0 days/days; walltime: 0.6
+584.0/3650.0 days/days; walltime: 0.7
+620.5/3650.0 days/days; walltime: 0.7
+657.0/3650.0 days/days; walltime: 0.5
+693.5/3650.0 days/days; walltime: 0.4
+730.0/3650.0 days/days; walltime: 0.4
+766.5/3650.0 days/days; walltime: 0.3
+803.0/3650.0 days/days; walltime: 0.6
+839.5/3650.0 days/days; walltime: 0.2
+876.0/3650.0 days/days; walltime: 0.3
+912.5/3650.0 days/days; walltime: 0.3
+949.0/3650.0 days/days; walltime: 0.4
+985.5/3650.0 days/days; walltime: 0.4
+1022.0/3650.0 days/days; walltime: 0.3
+1058.5/3650.0 days/days; walltime: 0.3
+1095.0/3650.0 days/days; walltime: 0.3
+1131.5/3650.0 days/days; walltime: 0.2
+1168.0/3650.0 days/days; walltime: 0.1
+1204.5/3650.0 days/days; walltime: 0.1
+1241.0/3650.0 days/days; walltime: 0.1
+1277.5/3650.0 days/days; walltime: 0.1
+1314.0/3650.0 days/days; walltime: 0.1
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.5
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.1
+1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.0
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.4
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.0
+2080.5/3650.0 days/days; walltime: 0.0
+2117.0/3650.0 days/days; walltime: 0.0
+2153.5/3650.0 days/days; walltime: 0.0
+2190.0/3650.0 days/days; walltime: 0.0
+2226.5/3650.0 days/days; walltime: 0.0
+2299.5/3650.0 days/days; walltime: 0.0
+2336.0/3650.0 days/days; walltime: 0.0
+2372.5/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.0
+2518.5/3650.0 days/days; walltime: 0.0
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.0
+2664.5/3650.0 days/days; walltime: 0.0
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+-2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.0
+3321.5/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 71.0s
+ 
+Case 3:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.27010
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_003.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.5
+73.0/3650.0 days/days; walltime: 3.8
+109.5/3650.0 days/days; walltime: 3.1
+146.0/3650.0 days/days; walltime: 9.2
+182.5/3650.0 days/days; walltime: 8.1
+219.0/3650.0 days/days; walltime: 7.4
+255.5/3650.0 days/days; walltime: 7.7
+292.0/3650.0 days/days; walltime: 3.5
+328.5/3650.0 days/days; walltime: 3.5
+365.0/3650.0 days/days; walltime: 1.7
+401.5/3650.0 days/days; walltime: 1.7
+438.0/3650.0 days/days; walltime: 1.1
+474.5/3650.0 days/days; walltime: 1.0
+511.0/3650.0 days/days; walltime: 0.5
+547.5/3650.0 days/days; walltime: 0.6
+584.0/3650.0 days/days; walltime: 0.6
+620.5/3650.0 days/days; walltime: 0.6
+657.0/3650.0 days/days; walltime: 0.5
+693.5/3650.0 days/days; walltime: 0.4
+730.0/3650.0 days/days; walltime: 0.4
+766.5/3650.0 days/days; walltime: 0.7
+803.0/3650.0 days/days; walltime: 0.2
+839.5/3650.0 days/days; walltime: 0.1
+876.0/3650.0 days/days; walltime: 0.1
+912.5/3650.0 days/days; walltime: 0.2
+949.0/3650.0 days/days; walltime: 0.2
+985.5/3650.0 days/days; walltime: 0.1
+1022.0/3650.0 days/days; walltime: 0.2
+1058.5/3650.0 days/days; walltime: 0.1
+1095.0/3650.0 days/days; walltime: 0.1
+1131.5/3650.0 days/days; walltime: 0.1
+1168.0/3650.0 days/days; walltime: 0.1
+1204.5/3650.0 days/days; walltime: 0.1
+1241.0/3650.0 days/days; walltime: 0.1
+1277.5/3650.0 days/days; walltime: 0.1
+1314.0/3650.0 days/days; walltime: 0.1
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.4
+-1423.5/3650.0 days/days; walltime: 0.0
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.0
+1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.1
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.1
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.2
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.4
+2409.0/3650.0 days/days; walltime: 0.1
+2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.1
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.1
+2591.5/3650.0 days/days; walltime: 0.1
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.1
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.1
+2774.0/3650.0 days/days; walltime: 0.1
+2810.5/3650.0 days/days; walltime: 0.1
+2847.0/3650.0 days/days; walltime: 0.1
+2883.5/3650.0 days/days; walltime: 0.1
+2920.0/3650.0 days/days; walltime: 0.4
+2956.5/3650.0 days/days; walltime: 0.1
+2993.0/3650.0 days/days; walltime: 0.1
+3029.5/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.1
+3102.5/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.1
+3212.0/3650.0 days/days; walltime: 0.1
+3248.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.1
+3321.5/3650.0 days/days; walltime: 0.1
+3358.0/3650.0 days/days; walltime: 0.1
+3394.5/3650.0 days/days; walltime: 0.4
+3431.0/3650.0 days/days; walltime: 0.1
+3467.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3577.0/3650.0 days/days; walltime: 0.1
+3613.5/3650.0 days/days; walltime: 0.0
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 73.0s
+ 
+Case 4:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.29076
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_004.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.3
+73.0/3650.0 days/days; walltime: 3.8
+109.5/3650.0 days/days; walltime: 1.0
+146.0/3650.0 days/days; walltime: 3.0
+182.5/3650.0 days/days; walltime: 12.0
+219.0/3650.0 days/days; walltime: 6.6
+255.5/3650.0 days/days; walltime: 5.7
+292.0/3650.0 days/days; walltime: 3.4
+328.5/3650.0 days/days; walltime: 3.7
+365.0/3650.0 days/days; walltime: 2.6
+401.5/3650.0 days/days; walltime: 1.6
+438.0/3650.0 days/days; walltime: 1.7
+474.5/3650.0 days/days; walltime: 1.0
+511.0/3650.0 days/days; walltime: 0.7
+547.5/3650.0 days/days; walltime: 0.6
+584.0/3650.0 days/days; walltime: 0.6
+620.5/3650.0 days/days; walltime: 0.8
+657.0/3650.0 days/days; walltime: 0.6
+693.5/3650.0 days/days; walltime: 0.5
+730.0/3650.0 days/days; walltime: 0.4
+766.5/3650.0 days/days; walltime: 0.5
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 0.3
+876.0/3650.0 days/days; walltime: 0.3
+912.5/3650.0 days/days; walltime: 0.2
+949.0/3650.0 days/days; walltime: 0.3
+985.5/3650.0 days/days; walltime: 0.2
+1022.0/3650.0 days/days; walltime: 0.3
+1058.5/3650.0 days/days; walltime: 0.5
+1095.0/3650.0 days/days; walltime: 0.5
+1131.5/3650.0 days/days; walltime: 0.4
+1168.0/3650.0 days/days; walltime: 0.4
+1204.5/3650.0 days/days; walltime: 0.3
+1241.0/3650.0 days/days; walltime: 0.2
+1277.5/3650.0 days/days; walltime: 0.1
+1314.0/3650.0 days/days; walltime: 0.5
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.2
+1496.5/3650.0 days/days; walltime: 0.2
+1533.0/3650.0 days/days; walltime: 0.2
+1569.5/3650.0 days/days; walltime: 0.2
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.1
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.1
+2409.0/3650.0 days/days; walltime: 0.1
+2445.5/3650.0 days/days; walltime: 0.4
+2482.0/3650.0 days/days; walltime: 0.0
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.0
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.0
+2664.5/3650.0 days/days; walltime: 0.0
+2701.0/3650.0 days/days; walltime: 0.0
+2737.5/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.0
+3321.5/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 68.5s
+ 
+Case 5:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.31329
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_005.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.5s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 5.1
+73.0/3650.0 days/days; walltime: 3.9
+-109.5/3650.0 days/days; walltime: 1.1
+146.0/3650.0 days/days; walltime: 1.2
+182.5/3650.0 days/days; walltime: 6.2
+219.0/3650.0 days/days; walltime: 10.1
+255.5/3650.0 days/days; walltime: 4.3
+292.0/3650.0 days/days; walltime: 3.1
+328.5/3650.0 days/days; walltime: 3.4
+365.0/3650.0 days/days; walltime: 2.2
+401.5/3650.0 days/days; walltime: 1.9
+438.0/3650.0 days/days; walltime: 2.2
+474.5/3650.0 days/days; walltime: 1.1
+511.0/3650.0 days/days; walltime: 0.8
+547.5/3650.0 days/days; walltime: 0.7
+584.0/3650.0 days/days; walltime: 0.7
+620.5/3650.0 days/days; walltime: 1.1
+657.0/3650.0 days/days; walltime: 0.7
+693.5/3650.0 days/days; walltime: 0.5
+730.0/3650.0 days/days; walltime: 0.5
+766.5/3650.0 days/days; walltime: 0.4
+803.0/3650.0 days/days; walltime: 0.4
+839.5/3650.0 days/days; walltime: 0.4
+876.0/3650.0 days/days; walltime: 0.3
+912.5/3650.0 days/days; walltime: 0.3
+949.0/3650.0 days/days; walltime: 0.3
+985.5/3650.0 days/days; walltime: 0.2
+1022.0/3650.0 days/days; walltime: 0.3
+1058.5/3650.0 days/days; walltime: 0.4
+1095.0/3650.0 days/days; walltime: 0.4
+1131.5/3650.0 days/days; walltime: 0.5
+1168.0/3650.0 days/days; walltime: 0.4
+1204.5/3650.0 days/days; walltime: 0.4
+1241.0/3650.0 days/days; walltime: 0.7
+1277.5/3650.0 days/days; walltime: 0.3
+1314.0/3650.0 days/days; walltime: 0.2
+1350.5/3650.0 days/days; walltime: 0.2
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.5
+1533.0/3650.0 days/days; walltime: 0.0
+1569.5/3650.0 days/days; walltime: 0.0
+1606.0/3650.0 days/days; walltime: 0.0
+1642.5/3650.0 days/days; walltime: 0.0
+1679.0/3650.0 days/days; walltime: 0.0
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+-1898.0/3650.0 days/days; walltime: 0.4
+1934.5/3650.0 days/days; walltime: 0.0
+1971.0/3650.0 days/days; walltime: 0.0
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.0
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.0
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.1
+2409.0/3650.0 days/days; walltime: 0.1
+2445.5/3650.0 days/days; walltime: 0.1
+2482.0/3650.0 days/days; walltime: 0.1
+2518.5/3650.0 days/days; walltime: 0.1
+2555.0/3650.0 days/days; walltime: 0.1
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.1
+2664.5/3650.0 days/days; walltime: 0.0
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+2920.0/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+3029.5/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3212.0/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 64.0s
+ 
+Case 6:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.1181
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_006.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.5s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 9.9
+--------------------------------------------73.0/3650.0 days/days; walltime: 2.8
+-----------------------------------------------------------------------------------------------------109.5/3650.0 days/days; walltime: 4.7
+--------------------------------------------------------------------------------146.0/3650.0 days/days; walltime: 3.3
+----------------------------------------182.5/3650.0 days/days; walltime: 1.6
+------------------------------------------------------------------------------219.0/3650.0 days/days; walltime: 2.8
+----------------------------------------------------------------------------------------------------------------------------------------------------------255.5/3650.0 days/days; walltime: 1.8
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------292.0/3650.0 days/days; walltime: 3.6
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------328.5/3650.0 days/days; walltime: 4.6
+365.0/3650.0 days/days; walltime: 2.6
+401.5/3650.0 days/days; walltime: 2.7
+438.0/3650.0 days/days; walltime: 1.9
+474.5/3650.0 days/days; walltime: 1.4
+-------511.0/3650.0 days/days; walltime: 0.5
+547.5/3650.0 days/days; walltime: 2.0
+584.0/3650.0 days/days; walltime: 1.2
+-----------------620.5/3650.0 days/days; walltime: 0.4
+657.0/3650.0 days/days; walltime: 0.3
+693.5/3650.0 days/days; walltime: 0.2
+730.0/3650.0 days/days; walltime: 0.5
+766.5/3650.0 days/days; walltime: 1.4
+803.0/3650.0 days/days; walltime: 0.8
+839.5/3650.0 days/days; walltime: 0.4
+876.0/3650.0 days/days; walltime: 0.2
+912.5/3650.0 days/days; walltime: 0.2
+-949.0/3650.0 days/days; walltime: 0.5
+-985.5/3650.0 days/days; walltime: 0.1
+----1022.0/3650.0 days/days; walltime: 0.1
+------1058.5/3650.0 days/days; walltime: 0.1
+------1095.0/3650.0 days/days; walltime: 0.1
+------1131.5/3650.0 days/days; walltime: 0.1
+-------1168.0/3650.0 days/days; walltime: 0.1
+----------1204.5/3650.0 days/days; walltime: 0.1
+----------1241.0/3650.0 days/days; walltime: 0.1
+----------1277.5/3650.0 days/days; walltime: 0.1
+----------1314.0/3650.0 days/days; walltime: 0.1
+----------1350.5/3650.0 days/days; walltime: 0.2
+-------1387.0/3650.0 days/days; walltime: 0.1
+------1423.5/3650.0 days/days; walltime: 0.1
+----1460.0/3650.0 days/days; walltime: 0.1
+------1496.5/3650.0 days/days; walltime: 0.1
+----1533.0/3650.0 days/days; walltime: 0.1
+--1569.5/3650.0 days/days; walltime: 0.0
+---1606.0/3650.0 days/days; walltime: 0.1
+----1642.5/3650.0 days/days; walltime: 0.0
+----1679.0/3650.0 days/days; walltime: 0.1
+----1715.5/3650.0 days/days; walltime: 0.0
+---1752.0/3650.0 days/days; walltime: 0.0
+----1788.5/3650.0 days/days; walltime: 0.1
+--1825.0/3650.0 days/days; walltime: 0.0
+-------1861.5/3650.0 days/days; walltime: 0.1
+--1898.0/3650.0 days/days; walltime: 0.0
+----1934.5/3650.0 days/days; walltime: 0.0
+--1971.0/3650.0 days/days; walltime: 0.0
+--2007.5/3650.0 days/days; walltime: 0.0
+----2044.0/3650.0 days/days; walltime: 0.0
+--2080.5/3650.0 days/days; walltime: 0.0
+--2117.0/3650.0 days/days; walltime: 0.0
+--2153.5/3650.0 days/days; walltime: 0.0
+--2190.0/3650.0 days/days; walltime: 0.0
+-----------------------------------2226.5/3650.0 days/days; walltime: 0.4
+-2263.0/3650.0 days/days; walltime: 0.0
+-2299.5/3650.0 days/days; walltime: 0.0
+-2336.0/3650.0 days/days; walltime: 0.0
+--2372.5/3650.0 days/days; walltime: 0.0
+-2409.0/3650.0 days/days; walltime: 0.0
+-2445.5/3650.0 days/days; walltime: 0.0
+-2482.0/3650.0 days/days; walltime: 0.0
+--2518.5/3650.0 days/days; walltime: 0.0
+-2555.0/3650.0 days/days; walltime: 0.0
+-2591.5/3650.0 days/days; walltime: 0.0
+-2628.0/3650.0 days/days; walltime: 0.0
+--2664.5/3650.0 days/days; walltime: 0.0
+-2737.5/3650.0 days/days; walltime: 0.0
+-2774.0/3650.0 days/days; walltime: 0.0
+-2810.5/3650.0 days/days; walltime: 0.0
+--2883.5/3650.0 days/days; walltime: 0.0
+-2920.0/3650.0 days/days; walltime: 0.0
+-2993.0/3650.0 days/days; walltime: 0.0
+-3029.5/3650.0 days/days; walltime: 0.0
+--3102.5/3650.0 days/days; walltime: 0.0
+--3175.5/3650.0 days/days; walltime: 0.0
+--3212.0/3650.0 days/days; walltime: 0.0
+--3285.0/3650.0 days/days; walltime: 0.0
+--3358.0/3650.0 days/days; walltime: 0.0
+--3431.0/3650.0 days/days; walltime: 0.0
+--3504.0/3650.0 days/days; walltime: 0.0
+--3577.0/3650.0 days/days; walltime: 0.0
+--3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 59.0s
+ 
+Case 7:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.3268
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_007.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.2
+36.5/3650.0 days/days; walltime: 29.8
+73.0/3650.0 days/days; walltime: 10.6
+109.5/3650.0 days/days; walltime: 3.9
+146.0/3650.0 days/days; walltime: 1.7
+182.5/3650.0 days/days; walltime: 1.2
+219.0/3650.0 days/days; walltime: 1.0
+255.5/3650.0 days/days; walltime: 1.2
+292.0/3650.0 days/days; walltime: 1.0
+328.5/3650.0 days/days; walltime: 1.6
+365.0/3650.0 days/days; walltime: 1.5
+401.5/3650.0 days/days; walltime: 2.0
+438.0/3650.0 days/days; walltime: 2.2
+474.5/3650.0 days/days; walltime: 2.2
+511.0/3650.0 days/days; walltime: 2.3
+547.5/3650.0 days/days; walltime: 5.3
+584.0/3650.0 days/days; walltime: 3.4
+620.5/3650.0 days/days; walltime: 6.2
+657.0/3650.0 days/days; walltime: 3.6
+693.5/3650.0 days/days; walltime: 3.8
+730.0/3650.0 days/days; walltime: 3.4
+766.5/3650.0 days/days; walltime: 3.5
+803.0/3650.0 days/days; walltime: 3.7
+839.5/3650.0 days/days; walltime: 3.1
+876.0/3650.0 days/days; walltime: 3.5
+912.5/3650.0 days/days; walltime: 3.7
+949.0/3650.0 days/days; walltime: 2.0
+985.5/3650.0 days/days; walltime: 2.9
+1022.0/3650.0 days/days; walltime: 2.5
+1058.5/3650.0 days/days; walltime: 3.2
+1095.0/3650.0 days/days; walltime: 2.0
+1131.5/3650.0 days/days; walltime: 1.8
+1168.0/3650.0 days/days; walltime: 2.8
+1204.5/3650.0 days/days; walltime: 2.0
+1241.0/3650.0 days/days; walltime: 2.2
+1277.5/3650.0 days/days; walltime: 1.6
+1314.0/3650.0 days/days; walltime: 2.8
+1350.5/3650.0 days/days; walltime: 2.8
+1387.0/3650.0 days/days; walltime: 1.7
+1423.5/3650.0 days/days; walltime: 2.8
+1460.0/3650.0 days/days; walltime: 2.2
+1496.5/3650.0 days/days; walltime: 2.2
+1533.0/3650.0 days/days; walltime: 1.2
+1569.5/3650.0 days/days; walltime: 1.2
+1606.0/3650.0 days/days; walltime: 0.9
+1642.5/3650.0 days/days; walltime: 0.8
+1679.0/3650.0 days/days; walltime: 0.6
+1715.5/3650.0 days/days; walltime: 0.3
+1752.0/3650.0 days/days; walltime: 0.2
+1788.5/3650.0 days/days; walltime: 0.2
+1825.0/3650.0 days/days; walltime: 0.2
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.1
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.1
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.4
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.0
+2372.5/3650.0 days/days; walltime: 0.1
+2409.0/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.1
+2482.0/3650.0 days/days; walltime: 0.0
+2518.5/3650.0 days/days; walltime: 0.1
+2555.0/3650.0 days/days; walltime: 0.0
+2591.5/3650.0 days/days; walltime: 0.1
+2628.0/3650.0 days/days; walltime: 0.0
+2664.5/3650.0 days/days; walltime: 0.1
+2701.0/3650.0 days/days; walltime: 0.0
+2737.5/3650.0 days/days; walltime: 0.1
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.1
+2847.0/3650.0 days/days; walltime: 0.0
+2883.5/3650.0 days/days; walltime: 0.0
+2920.0/3650.0 days/days; walltime: 0.1
+2956.5/3650.0 days/days; walltime: 0.1
+2993.0/3650.0 days/days; walltime: 0.1
+3029.5/3650.0 days/days; walltime: 0.0
+3066.0/3650.0 days/days; walltime: 0.1
+3102.5/3650.0 days/days; walltime: 0.0
+3139.0/3650.0 days/days; walltime: 0.1
+3175.5/3650.0 days/days; walltime: 0.4
+3212.0/3650.0 days/days; walltime: 0.1
+3248.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+-3321.5/3650.0 days/days; walltime: 0.0
+-3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3431.0/3650.0 days/days; walltime: 0.1
+3467.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.1
+3577.0/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 155.9s
+ 
+Case 8:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.5897
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_008.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.3
+36.5/3650.0 days/days; walltime: 44.7
+73.0/3650.0 days/days; walltime: 21.2
+109.5/3650.0 days/days; walltime: 6.5
+146.0/3650.0 days/days; walltime: 3.3
+182.5/3650.0 days/days; walltime: 2.4
+219.0/3650.0 days/days; walltime: 1.8
+255.5/3650.0 days/days; walltime: 0.6
+292.0/3650.0 days/days; walltime: 0.8
+328.5/3650.0 days/days; walltime: 1.4
+365.0/3650.0 days/days; walltime: 0.6
+401.5/3650.0 days/days; walltime: 0.5
+438.0/3650.0 days/days; walltime: 0.8
+474.5/3650.0 days/days; walltime: 0.9
+511.0/3650.0 days/days; walltime: 0.4
+547.5/3650.0 days/days; walltime: 0.5
+584.0/3650.0 days/days; walltime: 0.8
+620.5/3650.0 days/days; walltime: 0.4
+657.0/3650.0 days/days; walltime: 0.4
+693.5/3650.0 days/days; walltime: 0.4
+730.0/3650.0 days/days; walltime: 0.4
+766.5/3650.0 days/days; walltime: 0.7
+803.0/3650.0 days/days; walltime: 0.3
+839.5/3650.0 days/days; walltime: 1.0
+876.0/3650.0 days/days; walltime: 0.6
+912.5/3650.0 days/days; walltime: 1.3
+949.0/3650.0 days/days; walltime: 0.8
+985.5/3650.0 days/days; walltime: 1.6
+1022.0/3650.0 days/days; walltime: 2.6
+1058.5/3650.0 days/days; walltime: 2.1
+1095.0/3650.0 days/days; walltime: 2.3
+1131.5/3650.0 days/days; walltime: 3.0
+1168.0/3650.0 days/days; walltime: 2.4
+1204.5/3650.0 days/days; walltime: 1.4
+1241.0/3650.0 days/days; walltime: 2.8
+1277.5/3650.0 days/days; walltime: 2.4
+1314.0/3650.0 days/days; walltime: 2.6
+[Warning: Failure at t=1.433487e+00.  Unable to meet integration tolerances without reducing the step size below the smallest value allowed (3.552714e-15) at time t.] 
+[> In ode15s (line 655)
+In runner_coupled_ode15s (line 229)
+In run_model (line 58)
+In run_job (line 23)] 
+[Warning: somethings a bit iffy with scaling of para.time.fEuler ...] 
+[> In scale_time_para (line 25)
+In runner_coupled_ode15s (line 255)
+In run_model (line 58)
+In run_job (line 23)] 
+Wallclock for model run: 122.8s
+ 
+Case 9:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.8288
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_009.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.3
+36.5/3650.0 days/days; walltime: 18.8
+73.0/3650.0 days/days; walltime: 16.4
+109.5/3650.0 days/days; walltime: 4.1
+146.0/3650.0 days/days; walltime: 1.9
+182.5/3650.0 days/days; walltime: 1.2
+219.0/3650.0 days/days; walltime: 0.8
+255.5/3650.0 days/days; walltime: 1.3
+292.0/3650.0 days/days; walltime: 1.5
+328.5/3650.0 days/days; walltime: 1.8
+365.0/3650.0 days/days; walltime: 0.6
+401.5/3650.0 days/days; walltime: 0.6
+438.0/3650.0 days/days; walltime: 1.9
+474.5/3650.0 days/days; walltime: 2.7
+511.0/3650.0 days/days; walltime: 2.1
+547.5/3650.0 days/days; walltime: 4.4
+584.0/3650.0 days/days; walltime: 4.2
+620.5/3650.0 days/days; walltime: 6.4
+657.0/3650.0 days/days; walltime: 3.7
+693.5/3650.0 days/days; walltime: 3.9
+730.0/3650.0 days/days; walltime: 2.6
+766.5/3650.0 days/days; walltime: 3.5
+-803.0/3650.0 days/days; walltime: 3.5
+-839.5/3650.0 days/days; walltime: 3.7
+876.0/3650.0 days/days; walltime: 2.9
+912.5/3650.0 days/days; walltime: 2.9
+949.0/3650.0 days/days; walltime: 4.0
+985.5/3650.0 days/days; walltime: 3.1
+1022.0/3650.0 days/days; walltime: 2.5
+1058.5/3650.0 days/days; walltime: 2.9
+1095.0/3650.0 days/days; walltime: 2.3
+1131.5/3650.0 days/days; walltime: 2.1
+1168.0/3650.0 days/days; walltime: 2.8
+1204.5/3650.0 days/days; walltime: 1.8
+1241.0/3650.0 days/days; walltime: 1.7
+1277.5/3650.0 days/days; walltime: 1.5
+1314.0/3650.0 days/days; walltime: 2.4
+1350.5/3650.0 days/days; walltime: 1.8
+1387.0/3650.0 days/days; walltime: 1.6
+1423.5/3650.0 days/days; walltime: 2.2
+1460.0/3650.0 days/days; walltime: 2.0
+1496.5/3650.0 days/days; walltime: 1.9
+1533.0/3650.0 days/days; walltime: 2.0
+1569.5/3650.0 days/days; walltime: 2.4
+1606.0/3650.0 days/days; walltime: 0.9
+1642.5/3650.0 days/days; walltime: 1.2
+1679.0/3650.0 days/days; walltime: 1.0
+1715.5/3650.0 days/days; walltime: 0.7
+1752.0/3650.0 days/days; walltime: 0.4
+1788.5/3650.0 days/days; walltime: 0.3
+1825.0/3650.0 days/days; walltime: 0.2
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.2
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.2
+2007.5/3650.0 days/days; walltime: 0.1
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.1
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.1
+2190.0/3650.0 days/days; walltime: 0.1
+2226.5/3650.0 days/days; walltime: 0.1
+2263.0/3650.0 days/days; walltime: 0.1
+2299.5/3650.0 days/days; walltime: 0.1
+2336.0/3650.0 days/days; walltime: 0.1
+2372.5/3650.0 days/days; walltime: 0.1
+2409.0/3650.0 days/days; walltime: 0.1
+2445.5/3650.0 days/days; walltime: 0.1
+2482.0/3650.0 days/days; walltime: 0.1
+2518.5/3650.0 days/days; walltime: 0.1
+-2555.0/3650.0 days/days; walltime: 0.5
+2591.5/3650.0 days/days; walltime: 0.1
+2628.0/3650.0 days/days; walltime: 0.2
+2664.5/3650.0 days/days; walltime: 0.1
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.1
+2774.0/3650.0 days/days; walltime: 0.1
+-2810.5/3650.0 days/days; walltime: 0.5
+2847.0/3650.0 days/days; walltime: 0.1
+2883.5/3650.0 days/days; walltime: 0.1
+2920.0/3650.0 days/days; walltime: 0.1
+2956.5/3650.0 days/days; walltime: 0.1
+2993.0/3650.0 days/days; walltime: 0.1
+3029.5/3650.0 days/days; walltime: 0.1
+3066.0/3650.0 days/days; walltime: 0.1
+3102.5/3650.0 days/days; walltime: 0.1
+3139.0/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.1
+3212.0/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.1
+3285.0/3650.0 days/days; walltime: 0.0
+3321.5/3650.0 days/days; walltime: 0.1
+3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3431.0/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.1
+3504.0/3650.0 days/days; walltime: 0.0
+3540.5/3650.0 days/days; walltime: 0.0
+3577.0/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+3650.0/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 152.2s
+ 
+Case 10:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.10786
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_010.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.3
+36.5/3650.0 days/days; walltime: 72.8
+73.0/3650.0 days/days; walltime: 36.3
+109.5/3650.0 days/days; walltime: 13.1
+146.0/3650.0 days/days; walltime: 6.4
+182.5/3650.0 days/days; walltime: 5.4
+219.0/3650.0 days/days; walltime: 1.6
+255.5/3650.0 days/days; walltime: 0.4
+292.0/3650.0 days/days; walltime: 0.4
+328.5/3650.0 days/days; walltime: 1.8
+365.0/3650.0 days/days; walltime: 0.6
+401.5/3650.0 days/days; walltime: 0.5
+438.0/3650.0 days/days; walltime: 0.4
+474.5/3650.0 days/days; walltime: 0.4
+511.0/3650.0 days/days; walltime: 0.5
+547.5/3650.0 days/days; walltime: 0.5
+584.0/3650.0 days/days; walltime: 1.2
+620.5/3650.0 days/days; walltime: 0.4
+657.0/3650.0 days/days; walltime: 0.3
+693.5/3650.0 days/days; walltime: 0.7
+730.0/3650.0 days/days; walltime: 0.2
+766.5/3650.0 days/days; walltime: 0.3
+803.0/3650.0 days/days; walltime: 0.4
+839.5/3650.0 days/days; walltime: 0.4
+876.0/3650.0 days/days; walltime: 0.7
+912.5/3650.0 days/days; walltime: 0.3
+949.0/3650.0 days/days; walltime: 0.4
+985.5/3650.0 days/days; walltime: 0.9
+1022.0/3650.0 days/days; walltime: 0.7
+1058.5/3650.0 days/days; walltime: 0.9
+1095.0/3650.0 days/days; walltime: 1.1
+1131.5/3650.0 days/days; walltime: 1.7
+1168.0/3650.0 days/days; walltime: 1.9
+1204.5/3650.0 days/days; walltime: 0.9
+1241.0/3650.0 days/days; walltime: 0.7
+1277.5/3650.0 days/days; walltime: 2.2
+1314.0/3650.0 days/days; walltime: 2.8
+1350.5/3650.0 days/days; walltime: 3.5
+1387.0/3650.0 days/days; walltime: 1.8
+1423.5/3650.0 days/days; walltime: 3.4
+1460.0/3650.0 days/days; walltime: 2.1
+1496.5/3650.0 days/days; walltime: 2.1
+1533.0/3650.0 days/days; walltime: 3.1
+1569.5/3650.0 days/days; walltime: 2.3
+1606.0/3650.0 days/days; walltime: 3.1
+1642.5/3650.0 days/days; walltime: 2.1
+1679.0/3650.0 days/days; walltime: 1.6
+1715.5/3650.0 days/days; walltime: 1.5
+1752.0/3650.0 days/days; walltime: 2.0
+1788.5/3650.0 days/days; walltime: 2.1
+1825.0/3650.0 days/days; walltime: 2.3
+1861.5/3650.0 days/days; walltime: 1.9
+1898.0/3650.0 days/days; walltime: 2.4
+1934.5/3650.0 days/days; walltime: 1.9
+1971.0/3650.0 days/days; walltime: 1.6
+2007.5/3650.0 days/days; walltime: 2.0
+2044.0/3650.0 days/days; walltime: 1.3
+2080.5/3650.0 days/days; walltime: 1.3
+2117.0/3650.0 days/days; walltime: 2.1
+2153.5/3650.0 days/days; walltime: 2.1
+2190.0/3650.0 days/days; walltime: 1.5
+2226.5/3650.0 days/days; walltime: 1.9
+2263.0/3650.0 days/days; walltime: 2.2
+2299.5/3650.0 days/days; walltime: 1.6
+2336.0/3650.0 days/days; walltime: 1.4
+2372.5/3650.0 days/days; walltime: 1.2
+2409.0/3650.0 days/days; walltime: 1.3
+2445.5/3650.0 days/days; walltime: 1.4
+2482.0/3650.0 days/days; walltime: 1.9
+2518.5/3650.0 days/days; walltime: 1.8
+2555.0/3650.0 days/days; walltime: 1.1
+2591.5/3650.0 days/days; walltime: 1.5
+2628.0/3650.0 days/days; walltime: 1.8
+2664.5/3650.0 days/days; walltime: 1.9
+2701.0/3650.0 days/days; walltime: 1.3
+2737.5/3650.0 days/days; walltime: 1.4
+2774.0/3650.0 days/days; walltime: 1.3
+2810.5/3650.0 days/days; walltime: 0.7
+2847.0/3650.0 days/days; walltime: 1.6
+2883.5/3650.0 days/days; walltime: 1.0
+2920.0/3650.0 days/days; walltime: 1.3
+2956.5/3650.0 days/days; walltime: 0.6
+2993.0/3650.0 days/days; walltime: 1.7
+3029.5/3650.0 days/days; walltime: 1.4
+3066.0/3650.0 days/days; walltime: 1.5
+3102.5/3650.0 days/days; walltime: 0.7
+3139.0/3650.0 days/days; walltime: 1.4
+3175.5/3650.0 days/days; walltime: 1.0
+3212.0/3650.0 days/days; walltime: 1.0
+3248.5/3650.0 days/days; walltime: 1.4
+3285.0/3650.0 days/days; walltime: 1.8
+3321.5/3650.0 days/days; walltime: 1.3
+3358.0/3650.0 days/days; walltime: 1.4
+3394.5/3650.0 days/days; walltime: 1.0
+3431.0/3650.0 days/days; walltime: 1.3
+3467.5/3650.0 days/days; walltime: 1.0
+3504.0/3650.0 days/days; walltime: 1.3
+3540.5/3650.0 days/days; walltime: 1.2
+3577.0/3650.0 days/days; walltime: 1.2
+3613.5/3650.0 days/days; walltime: 1.4
+3650.0/3650.0 days/days; walltime: 1.3
+Wallclock for model run: 269.7s
+ 
+Case 11:
+Picked up JAVA_TOOL_OPTIONS: -Xmx2g
+Opening log file:  /tmp/java.log.13495
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                    R2020b (9.9.0.1467703) 64-bit (glnxa64)
+                                                                                August 26, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Running model run (ode15s):
+Run with steady forcing
+Saving model run to
+/scratch/tghill/farming/meta/no-mixing/RUN/output_011.nc
+Fields, IC & BC initialised
+Initial phi calculated in 0.6s
+0.0/3650.0 days/days; walltime: 2.3
+36.5/3650.0 days/days; walltime: 10.2
+73.0/3650.0 days/days; walltime: 17.7
+109.5/3650.0 days/days; walltime: 4.5
+146.0/3650.0 days/days; walltime: 2.3
+182.5/3650.0 days/days; walltime: 2.5
+219.0/3650.0 days/days; walltime: 1.6
+255.5/3650.0 days/days; walltime: 2.7
+292.0/3650.0 days/days; walltime: 2.8
+328.5/3650.0 days/days; walltime: 2.5
+365.0/3650.0 days/days; walltime: 4.5
+401.5/3650.0 days/days; walltime: 5.0
+438.0/3650.0 days/days; walltime: 5.0
+474.5/3650.0 days/days; walltime: 5.3
+511.0/3650.0 days/days; walltime: 4.4
+547.5/3650.0 days/days; walltime: 5.5
+584.0/3650.0 days/days; walltime: 6.3
+620.5/3650.0 days/days; walltime: 4.8
+657.0/3650.0 days/days; walltime: 3.2
+693.5/3650.0 days/days; walltime: 3.3
+730.0/3650.0 days/days; walltime: 3.8
+766.5/3650.0 days/days; walltime: 2.6
+803.0/3650.0 days/days; walltime: 2.9
+839.5/3650.0 days/days; walltime: 2.2
+876.0/3650.0 days/days; walltime: 2.8
+912.5/3650.0 days/days; walltime: 2.0
+949.0/3650.0 days/days; walltime: 0.8
+985.5/3650.0 days/days; walltime: 1.2
+1022.0/3650.0 days/days; walltime: 0.5
+1058.5/3650.0 days/days; walltime: 0.4
+1095.0/3650.0 days/days; walltime: 0.3
+1131.5/3650.0 days/days; walltime: 0.3
+1168.0/3650.0 days/days; walltime: 0.2
+1204.5/3650.0 days/days; walltime: 0.2
+1241.0/3650.0 days/days; walltime: 0.2
+1277.5/3650.0 days/days; walltime: 0.2
+1314.0/3650.0 days/days; walltime: 0.2
+1350.5/3650.0 days/days; walltime: 0.1
+1387.0/3650.0 days/days; walltime: 0.1
+1423.5/3650.0 days/days; walltime: 0.1
+1460.0/3650.0 days/days; walltime: 0.1
+1496.5/3650.0 days/days; walltime: 0.1
+--1533.0/3650.0 days/days; walltime: 0.1
+1569.5/3650.0 days/days; walltime: 0.1
+1606.0/3650.0 days/days; walltime: 0.1
+1642.5/3650.0 days/days; walltime: 0.1
+1679.0/3650.0 days/days; walltime: 0.1
+1715.5/3650.0 days/days; walltime: 0.1
+1752.0/3650.0 days/days; walltime: 0.1
+1788.5/3650.0 days/days; walltime: 0.1
+1825.0/3650.0 days/days; walltime: 0.1
+1861.5/3650.0 days/days; walltime: 0.1
+1898.0/3650.0 days/days; walltime: 0.0
+1934.5/3650.0 days/days; walltime: 0.1
+1971.0/3650.0 days/days; walltime: 0.1
+2007.5/3650.0 days/days; walltime: 0.4
+2044.0/3650.0 days/days; walltime: 0.1
+2080.5/3650.0 days/days; walltime: 0.0
+2117.0/3650.0 days/days; walltime: 0.1
+2153.5/3650.0 days/days; walltime: 0.0
+2190.0/3650.0 days/days; walltime: 0.0
+2226.5/3650.0 days/days; walltime: 0.0
+2263.0/3650.0 days/days; walltime: 0.0
+2299.5/3650.0 days/days; walltime: 0.0
+2336.0/3650.0 days/days; walltime: 0.0
+2372.5/3650.0 days/days; walltime: 0.0
+2409.0/3650.0 days/days; walltime: 0.0
+2445.5/3650.0 days/days; walltime: 0.0
+2482.0/3650.0 days/days; walltime: 0.0
+2518.5/3650.0 days/days; walltime: 0.0
+2555.0/3650.0 days/days; walltime: 0.1
+2591.5/3650.0 days/days; walltime: 0.0
+2628.0/3650.0 days/days; walltime: 0.0
+2664.5/3650.0 days/days; walltime: 0.0
+2701.0/3650.0 days/days; walltime: 0.1
+2737.5/3650.0 days/days; walltime: 0.0
+2774.0/3650.0 days/days; walltime: 0.0
+2810.5/3650.0 days/days; walltime: 0.0
+2847.0/3650.0 days/days; walltime: 0.1
+2920.0/3650.0 days/days; walltime: 0.0
+2956.5/3650.0 days/days; walltime: 0.0
+2993.0/3650.0 days/days; walltime: 0.0
+3029.5/3650.0 days/days; walltime: 0.4
+3066.0/3650.0 days/days; walltime: 0.0
+3102.5/3650.0 days/days; walltime: 0.0
+3175.5/3650.0 days/days; walltime: 0.0
+3212.0/3650.0 days/days; walltime: 0.0
+3248.5/3650.0 days/days; walltime: 0.0
+3285.0/3650.0 days/days; walltime: 0.0
+3358.0/3650.0 days/days; walltime: 0.0
+3394.5/3650.0 days/days; walltime: 0.0
+3431.0/3650.0 days/days; walltime: 0.0
+3467.5/3650.0 days/days; walltime: 0.0
+3504.0/3650.0 days/days; walltime: 0.1
+3540.5/3650.0 days/days; walltime: 0.0
+3577.0/3650.0 days/days; walltime: 0.0
+3613.5/3650.0 days/days; walltime: 0.0
+Wallclock for model run: 122.2s
+ 
+No cases left; exiting.
