@@ -71,7 +71,6 @@ ax1.set_xlim([0, 100])
 ax2.set_xlim([0, 100])
 ax3.set_xlim([0, 100])
 
-ax1.set_title
 
 ax1.set_ylim([0, 1.2])
 ax2.set_ylim([0, 1.2])
@@ -81,6 +80,9 @@ ax1.set_title(r'$\gamma$')
 ax2.set_title(r'$\alpha$')
 ax3.set_title(r'$\beta$')
 
+ax1.grid()
+ax2.grid()
+ax3.grid()
 plt.tight_layout()
 
 fig.savefig('formulations.png', dpi=600)
