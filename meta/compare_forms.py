@@ -6,7 +6,7 @@ from mpl_toolkits.axes_grid1.axes_divider import make_axes_locatable
 
 import cmocean
 
-fig, (ax1, ax2) = plt.subplots(figsize=(8, 4), ncols=2)
+fig, (ax1, ax2, ax3) = plt.subplots(figsize=(10, 4), ncols=3)
 
 gamma_press = np.zeros((866, 11))
 
@@ -59,16 +59,21 @@ for j in range(exp_paras.shape[0]):
 
 for i in range(11):
     map1 = ax1.scatter(nodes[:, 0]/1e3, gamma_press[:, i], c=paras[i]*np.ones(gamma_press[:, i].shape), vmin=0, vmax=1, cmap=cmocean.cm.dense)
-    map2 = ax2.scatter(nodes[:, 0]/1e3, exp_press[:, i], c=exp_paras[i, 1]*np.ones(exp_press[:, i].shape), vmin=1.5, vmax=2, cmap=cmocean.cm.dense)
+    map2 = ax2.scatter(nodes[:, 0]/1e3, exp_press[:, i], c=exp_paras[i, 0]*np.ones(exp_press[:, i].shape), vmin=5/4, vmax=3, cmap=cmocean.cm.dense)
+
+    map3 = ax3.scatter(nodes[:, 0]/1e3, exp_press[:, i], c=exp_paras[i, 1]*np.ones(exp_press[:, i].shape), vmin=1.5, vmax=2, cmap=cmocean.cm.dense)
 
 fig.colorbar(map1, ax=ax1)
 fig.colorbar(map2, ax=ax2)
+fig.colorbar(map3, ax=ax3)
     
 ax1.set_xlim([0, 100])
 ax2.set_xlim([0, 100])
+ax3.set_xlim([0, 100])
 
 ax1.set_title
 
 ax1.set_ylim([0, 1.2])
 ax2.set_ylim([0, 1.2])
+ax3.set_ylim([0, 1.2])
 fig.savefig('formulations.png', dpi=600)
