@@ -1,8 +1,8 @@
 filename	date      	time	mesh#	start	end	descritption
-output_001.nc	31-Aug-2022	15:15	866	0	3650	Run with steady forcing
-output_002.nc	31-Aug-2022	15:18	866	0	3650	Run with steady forcing
-output_003.nc	31-Aug-2022	15:20	866	0	3650	Run with steady forcing
-output_004.nc	31-Aug-2022	15:22	866	0	3650	Run with steady forcing
-output_005.nc	31-Aug-2022	15:24	866	0	3650	Run with steady forcing
-output_006.nc	31-Aug-2022	15:26	866	0	3650	Run with steady forcing
-output_007.nc	31-Aug-2022	15:28	866	0	3650	Run with steady forcing
+output_001.nc	07-Sep-2022	12:39	866	0	3650	Run with steady forcing
+output_002.nc	07-Sep-2022	12:41	866	0	3650	Run with steady forcing
+output_003.nc	07-Sep-2022	12:43	866	0	3650	Run with steady forcing
+output_004.nc	07-Sep-2022	12:45	866	0	3650	Run with steady forcing
+output_005.nc	07-Sep-2022	12:47	866	0	3650	Run with steady forcing
+output_006.nc	07-Sep-2022	12:49	866	0	3650	Run with steady forcing
+output_007.nc	07-Sep-2022	12:51	866	0	3650	Run with steady forcing
